@@ -1,1 +1,2 @@
 Here's some sample text
+Here's a new line.
