@@ -1,0 +1,570 @@
+century-hs-teals2018@googlegroups.com
+https://centuryhsteals.slack.com/
+https://www.tealsk12.org/dashboard/
+https://tealsk12.instructure.com/
+https://groups.google.com/d/forum/century-hs-teals2018
+https://www.hsd.k12.or.us/page/68
+=========================
+June 23, 2018
+TEALS
+send email about meeting the week of July 16th
+Class rules
+get interrupted when the lecture's going too fast or there's a mistake
+Use Google calendar
+=========================
+compsciteacher
+iteachcode!23
+
+=========================
+Bell Schedule
+Monday - Thursday -- 9:35 to 10:55
+Friday -- 9:35 to 10:17 followed by 10:20 to 11:02
+
+
+Classroom plan
+start of page 18
+    https://docs.google.com/document/d/1WrGy0pAuuAp-QrpJ_rl__gAxTJ80xdcdpvW-EupuBYg/edit#
+
+Calendar
+    https://docs.google.com/document/d/1eCgazT5s-CxZxFmp1ziyZB4UnrKTqkBhkHjLuigfLL0/edit
+
+Implementation Guide
+    http://library.tealsk12.org/schools/2017/TEALS%20Implementation%20Guide%202017-2018.pdf
+
+Dashboard
+    https://www.tealsk12.org/dashboard/
+
+Raffle kits
+    https://www.tealsk12.org/partners/classroom-raffle-guidelines/
+
+Forum -- 
+    https://forums.tealsk12.org/login
+
+AP CS A curriculum --
+    https://tealsk12.gitbooks.io/ap-computer-science-a/content/
+
+CS A GitBook --
+    https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details
+
+======================================
+Todo
+Read about Snap! -- https://snap.berkeley.edu/snapsource/help/SnapManual.pdf
+Create a weekly sync plan as per the bottom of page 14
+Review the AP CS A curriculum
+
+    take the Canvas course -- https://canvas.instructure.com/courses/1166563?invitation=70NXfv6P2vjS4m0KQNlo07dBQ9SwwRQblVf4UPTm
+    connect for team meetings
+    Create a Socrative quiz -- www.socrative.com
+    Create a Kahoot! -- www.getkahoot.com
+    Volunteer kits
+    Canvas homework
+        https://canvas.instructure.com/courses/1045977
+    TEALS online forum
+    School logistics (background check/IDs)
+    TEALS curriculum
+    Find out what SNAP is
+    "Blown to Bits"
+    CSUnplugged.org
+    Are there on line communities I need to know about?
+    forums.tealsk12.org
+    Read https://docs.google.com/document/d/1WrGy0pAuuAp-QrpJ_rl__gAxTJ80xdcdpvW-EupuBYg/edit#heading=h.gjdgxs
+======================================
+Technology Education and Literacy in Schools
+
+8/5/2017
+Helen's phone number 425 681 4804
+Raffle kit
+    Tickets and box
+    Candy
+    Small prizes
+    Medium prizes
+Tickets as incentives
+    Participation
+    Notebooks
+    Helping other students
+    Extra credit
+
+T shirts
+    Add to Plan B sheet
+
+Plan B
+    Movies
+    Code.org light bot
+    Have students show their code from previous day
+
+Before getting to class
+    Show up early
+    Find out where the last class left off
+    Read the lesson plan for today's lesson
+    Prepare the exercise ahead of time
+    Check that the students know how to prepare -- what tools to have open -- Eclipse, internet, ...
+    Make sure that everyone in the classroom gets attention.  Proactively check to see if the students are not stuck.
+
+Read "How TA's can remain engaged in the classroom"
+
+        ----------Here here here-----------
+Entering the class procedure --
+    Be seated before the bell rings and turn on your computer
+    Log into Canvas ans open today's lesson
+    Log into Skype
+    Share your screen
+    Log into SNAP!
+    Create a new project (name it and save it)
+    Indicate you're ready to learn by placing the green cup upside down on your desk
+
+
+Have a procedure to agree on a way to get everyone's attention --
+    Ask the kid to tell the teacher
+    Phone the teacher
+
+Have a procedure to agree on a way to get everyone to be quiet
+
+Make popsicle sticks with names to randomly pick someone
+
+If no one volunteers, 
+    call on someone
+    repeat the question
+
+If no one responds, what to do?
+    
+Notebooks
+    Use them
+    Really use them!
+    Keep students active and engaged
+    Style and content are important
+    Do occasional checks as HW grade
+
+Lab meerkating
+    Measure how long you can spend on each kid
+        30 seconds to one minute max
+    Triage, unblock, and move on
+    Do not get monopolized
+    See every student twice per period
+    Know where each student is on their lab at the end of the period
+        Formative assessment
+
+Seating charts
+    Helps you remember names
+    Fosters good lab and class behavior
+    Students pick if well-behaved; teacher picks if needed
+    Be aware of IEP issues
+    Change up every quarter
+
+
+Next two weeks (remote):
+    Complete the step-by-step procedures
+        Canvas remote training resources
+    Get my Skype for business account
+    Complete Remote Supplement to the Classroom Plan
+    Complete Classroom Plan
+    Schedule System Stest
+    2nd Summer Check-in with me and get "First Week of School in a Remote Classroom"
+    Review first week of school plan and confirm that you're ready
+
+Start of School Checklist
+    Class enrollment (number demographics, etc.)
+    Classroom setup (with computers)
+    Books ordered and available
+    In-service day; Curriculum night
+    Background check, fingerprinting, ID, parking, network account,
+
+Ongoing support
+    Regional Manager check-ins
+    Monthly meetups in Redmond
+    Fall dinner with CTs in Vancouver
+    Class observations
+    Forums
+
+First week of School coming soon.
+
+Make learning objectives clear and emphasize at the end
+Make sure that each lesson has a target
+
+Download SNAP
+
+=============================================
+
+7/29/2017
+9AM
+Structure
+for (int index = 1; index <= 1000; index++) {
+    system.out.println(index);
+}
+
+25% of class time is instruction, 75% for lab
+Reinforce key concepts, rephrase, relate to previous learning
+Cold calling on students, ask for help
+    Cold call with warning
+The two instructors played off each other
+
+Compliment sandwich
+Use names as much as possible
+
+TEALS uses Canvas
+
+Formative assessment
+    Stop frequently to engage with students
+        "say it in your own words"
+    After assessing, react!
+        Reteach a topic, work through an example, skip ahead
+    Should occur frequently
+        all the time
+    Look at results in aggregate and individually
+        Identify students who are ahead/behind
+        Don't assumptions
+
+    Formative assessment tools
+        Offline
+            Thumbs up/down/side
+            Fist-to-five
+            Stoplight cards
+            Red cup/greencup
+
+        Online
+            Socrative -- http://www.socrative.com/
+            Kahoot! -- https://getkahoot.com/
+            Plickers -- https://www.plickers.com/
+
+Differentiated Instruction (Rachel)
+    Some kids are ahead, some are behind, others are in between
+    Differentiated Instruction is the process of providing unique support to an individual or small group of students with the goal of maximizing success of each student
+    Differentiation is:
+        Planned, not an afterthought
+        A value-add, not a time killer
+        Focused on helping students grow and learn, not catch up or slow down
+
+    Differentiation is not:
+        Extra or reduced work (without shifting complexity, style, etc.)
+            Even for extra credit
+        Providing answers with "time is up"
+
+    Review - Bloom's Taxonomy
+        A lot of CS work hits right in the middle: Application
+        Shifting up or down on the Taxonomy is a simple but effective way to differentiate
+        Bloom's taxonomy
+            Create
+            Evaluate
+            Analyze
+            Apply
+            Understand
+            Remember
+
+        Examples of moving up:
+            Create their own problems and solve them
+            Help another student
+            Different examples of a for loop
+            How to make a sprite jump without using the move block
+            What kinds of problems are suited to arrays or lists
+
+        Examples of moving down:
+            Ask to define the concept before using it
+            Here's a for loop: what does it do?
+            How to make cod run multiple times?
+
+        Classroom example
+            During lab you find that
+                5 students don't understand loops at all
+                15 are handling the lab just fine
+                5 finished the lab in 10 minutes and are now bored
+
+            How did you find out that this was the situation?
+                Formative assessment
+
+            What can you do with students behind
+                Learning style??  visual, audio, kinethetic
+                Group similar students
+                Check their notebooks
+                Review previous assignments
+
+                Ask them to explain what they're thinking
+                Get other students to help them
+                Relate the lesson to previous learning
+
+            What can you do with students who are finished?
+                Give more challenging assignments
+                Ask them to correct an erroneous program
+                Ask them to break things
+                Give them a more complex example
+                Pick a topic and have them explain where loops could be used
+                Make sure that they're not disruptive
+
+                Do additional formative assessment
+                Have them apply that knowledge
+
+                Ask them to help other students
+
+            What can you do to help students who hit this regularly?
+                Teach them to cope with this themselves
+                Assess your instructional style
+                Ask them to think about what they did previously
+                Pair them with different classes of students
+                Try to find out the root cause of the problem
+
+Page 5, Practicing Differentiation
+
+Diversity, Equity, and Inclusion
+
+    https://www.theodysseyonline.com/black-women-in-tech
+        This is a marketing problem
+        How to measure?
+        How to fix?
+        How to market to underserved?
+        Why have weed out programs?
+
+    Other types of diversity
+        Learning styles
+        Disabilities
+        Socio-economic background
+        Previous experience
+        Native language
+        Sexuality
+        Religion
+        Age
+
+    Diversity in Technical Roles
+        Gender female 18%
+        Ethnic
+            8% African American
+
+    Strategies
+        Get to know your students
+            Don't make assumptions
+        Be aware of examples that aren't relevant or interesting
+        Develop an identity of computer scientists for the whole class
+        Set expectations high for everyone
+            Give positive reinforcement and encouragement
+
+        You don't neec to be an expert, but be aware
+
+Dealing with failure
+    CS is different
+        Computer science classes are different than many other classes
+            No single right answer, but not completely open-ended
+            Rarely don the first time, but clear criteria for completeness and correctness
+            Completely new concepts, but high expectations
+
+    Student struggles
+        Many students struggle with failure
+            Schools have often trained students to expect success immediately or not at all
+        Frustration, disappointment, and fear are common
+        Outside pressure to contribute
+            From parents, administrators, media, etc.
+
+        Find the source of frustration and addess it head on
+        Identify, empathize, strategize
+
+        Student personas
+            Scared puppy -- empathize, give them a strategy for dealing with problems, emotional reassurance
+
+            Perfectionist -- talk to them about developing a skill rather than results, iterative development, its about growth and struggle is part of the journey, struggle is part of programming, give them examples of experts failing
+
+            Hustler -- it's about the skill not the grade, find out why hustling
+
+            Pessimist -- self-evaluate, talk about what they already know, reassure that struggle is part of the process, you deserve to learn the skill, 
+
+            Opportunist -- be aware of what's going on
+
+            Show-off -- 
+
+Grading
+    Why do we give grades?
+        So people can know accomplishment or skill level.
+        To guide further instruction?
+        To reward or punish
+    Who is/are the audiences for the grades?
+        Students
+        Parents
+        Future teachers
+    Do your answers to the above depend on where or when grades are given?
+        At the end, it's purely assessment
+        In the interim, it's more feedback to show where to improve
+
+    Motivating students with grades
+        Provide mechanisms to improve or offset bad grades
+            Test/quiz retakes
+            Project improvements
+            Makeup work
+
+        Require commitment from students
+            If all homework is complete, drop lowest test score
+            If exptra practice s done, final exam can replace projects
+
+        Make individual deals as needed
+        Be aware of school/classroom rules
+
+    Grading techniques
+        Rubrics
+        Written feedback
+        Complete/incomplete
+        Correct/Incorrect
+        Corrections
+        Peer grading
+        Self grading
+        Instructor grading
+        Face-to-face grading
+
+        Level of effort
+        Amount of improvement
+        Reward for showing process
+        Reward correcting mistakes
+        Written feedback
+
+    Peer Grading
+        Students get to see the assignment three times
+        Evaluate two students' understanding of one assignment
+
+        Don't take peer grades on faith
+        Do spot-check peer grading results
+
+    Corrections
+        Provide students opportunity to learn from mistakes
+        Make instructor feedback actionable
+
+    Calibration
+        Lots of grading, but lots of you
+        Take turns
+        Grade a few assignments, compare
+        Split submissions
+
+        AP CS
+            20% for homework and daily labs
+            40% for projects and large scal labes
+            40% for Tests and quizzes
+
+        Intro CS
+
+Academic Honesty in CS
+    The objective for each student is to learn computer science
+    Create a clear policy based on school requirements
+    Review the policy during the first few days of school
+    Post with the Syllabus on LMS or website
+
+    Use face-to-face grading of projects
+    Have students answer reflection questionsl on lab submissions
+    Investigate unexpected differences
+
+    Follow through on polic
+    Classroom teacher will involve parents and admins as necessary
+
+Remote teaching
+    Summer Setup: Remote Supplement to the classroom plan and Remote Classroom SystemSet-up Procedures
+    First week of school (Technology and Getting to Know your Students and the importnace of Plan B!)
+    Pacingof the TEALS Curricuulum
+    Classroom visit
+
+Summer Set-Up Differences
+    Remote Classroom System Set-up Procedures (do it correctly)
+        Create a shared spresheet with student and volunteer emails
+        Create indiviual Skype links for students (or Google Hang outs)
+        Ideally, have two monitors
+
+    First week of school
+        Entering the classroom procedure
+        Getting to know your students
+        Delivering your pre-planned Plan B when necessary
+
+    Entering the classroom procedure for students
+        Be seated before the bell rings and turn on your computer
+        Log into Canvas and open today's lesson
+        Log into Skype
+        Share your screen
+        Log into SNAP
+        Create a new project (name it and save it)
+        Share the URL with your TEALS volunteers
+        Indicate you're ready to learn by placing the green cup upside down on your desk
+
+    Getting to know your students
+
+    Plan B
+        
+    End of class handoffs are essential
+
+    Classroom visits
+        Go as much as you want.  Microsoft pays for a minimum of two (up to $1000)
+        September visit
+        Sample agendas
+        Spring visit
+
+    Volunteers assign daily work on Canvas/LMS
+    Or Option B
+
+    TA Engagement
+        Work one-on-one with absent students
+        Make formative assessments
+            Socrative or Kahoot
+        Grade papers
+        Make a plan for which students need to be visited first when lab starts
+        Check to see who hasn't turned into an assignment yet
+        Work with classroom teacher helping them learn the materials
+
+    At the end of the day, remote teaching is not as different from local teaching as you might think.  Call your regional manager before you go crazy
+
+    Communication
+        Teaching voice
+            not just what you say but how you deliver it
+            Different from your day-to-day voice
+            vocal variety
+            Affects students attension
+            Especially important for remote teachers
+
+        Componnts of teacher voice
+            Pitch -- record yourself and listen
+            Tempo/rate
+            Volume
+            Prosody (rhythm)
+            Don't forget: wait time!
+
+        Word Choice
+            that's wrong     that's not quite right
+            fix it           try again
+            who's not done yet   who's still working
+            it's much better than it was    you're making great progress
+            Raise your hand if you don't get it -- Raise your had if you'd like to hear it again
+
+        Tone
+            Compassion -- warm, friendly, inviting, open
+            Authority -- Firm, clear, strict, no- nonsense
+            Engagement -- Projected, varied, enthusiastic
+
+        Bonus activity -- record yourself delivering a lesson
+
+        Body language is important
+
+        Packet activity
+            Find a partner
+            For each scenario, one partner will be a student; the other will be a teacher/TA
+            Respond to the student with empathy
+            Think about your tone, body language, and word choice
+
+    Other classroom procedures
+        How to ask a question
+        What can I work on when I'm done
+        Transition from lecture to lab
+        Exit ticket
+        Cheating
+        Setting up a Kahoot
+        Going to the bathroom
+        How to turn in papers
+        How to name files
+        Source file identification of author
+        Back channel communication with classroom teacher
+        Hand off procedures
+
+    Mock lab
+        Try to visit at least once with every student
+        Triage, hint, move on
+            Don't get monopolized
+        Collect formative assessment data
+
+        Step 1 -- Diagnose
+            How are you doing?
+            What is this supposed to do?
+
+        Step 2 -- Leading questions
+
+        Review -- Give encouragement
+            Encourage effort and grit
+
+    forums.tealsk12.org
+
+

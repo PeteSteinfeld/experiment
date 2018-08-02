@@ -1,0 +1,119 @@
+A Practical Guide to Git and GitHub for Windows Users
+Learn Version Control with Git
+Pro Git
+=========================
+Keep everyone on the team productive
+Integrate frequently
+Keep the master clean
+==================
+Keep the master clean
+Integration is hard -- do all work on branches
+Maximize team productivity
+==================
+
+Commands to exercise
+init
+clone
+add
+push
+pull
+branch
+revert
+merge
+status
+
+Use Git Bash
+
+***Create a repository on GitHub
+Copy that repository to a local machine
+      --------
+# clone a GitHub repository
+$ git clone <URL>
+      --------
+# check working directory changes
+$ git status
+
+***Make changes on the local machine
+      --------
+# add changes to index
+$ git add <folder>
+$ git add <file>
+
+# commit a new version
+$ git commit -m <comment>
+      --------
+
+***Check to see if it's OK to deliver
+      --------
+$ git status
+      --------
+
+***Transfer from local machine to GitHub
+      --------
+# identify remote repository
+$ git remote
+$ git remote show <repo name>
+
+# push new version to GitHub
+$ git push origin master
+
+=======================================
+
+
+Revert to a previous version
+
+There are multiple use cases--
+Undo changes in the working directory
+Undo changes that are staged but not committed
+Undo changes that are committed
+
+Undo changes in the working directory
+$ git checkout <file to be reverted>
+
+Undo changes that are staged but not committed
+$ git reset HEAD <file to be reverted>
+
+Undo changes that are committed
+$ git revert <hash of change to be undone> --no-edit
+
+=======================
+# show history of commits
+$ git log --oneline --decorate
+
+# list local branches
+$ git branch
+
+# list remote branches
+$ git branch --remote
+
+# view changes in the working tree
+# not yet staged
+$ git diff <file>
+
+# view the changes between 
+# the index and the last commit
+$ git diff --cached <file>
+
+# view the changes in the working 
+# tree since the last commit
+$ git diff HEAD <file>
+
+# view changes between 
+# two commits
+$ git diff <commit1> <commit2> <file>
+
+# undo unstaged changes
+$ git checkout <file>
+
+# unstage changes
+$ git reset HEAD <file>
+
+# undo committed change
+$ git revert <commit> --no-edit
+
+# apply tag to a version
+$ git tag -a <tag> <commit> -m <comment>
+
+=======================
+
+Merge to resolve a conflict
